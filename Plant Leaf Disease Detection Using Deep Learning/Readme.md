@@ -1,4 +1,4 @@
-## **Plant Leaf Disease Detection Using Deep Learning**##
+## **Plant Leaf Disease Detection Using Deep Learning**
 
 Plant leaf disease detection using deep learning is a technique that leverages the power of deep neural networks to automatically identify and classify diseases in plant leaves. It involves training a deep learning model on a large dataset of annotated plant leaf images, where each image is labeled with the corresponding disease or healthy status.
 
